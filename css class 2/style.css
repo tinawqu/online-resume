@@ -1,16 +1,22 @@
 body{
-	background-color: lightgray;	
+	font-size:18px;
+	background-color: #F6F6F6;
+	border-top: 5px solid black;
+	border-bottom: 5px solid black;
+	padding: 50px;
+	margin: 30px;	
 }
 
 nav {
+	font-weight: bold;
 	text-align: center;
 }
 
 h1{
 	text-align: center;
+	text-transform: uppercase;
 }
 
-html{
-	border: solid 5px;
-	border-color: black;
-
+img{
+	float: right;
+}
